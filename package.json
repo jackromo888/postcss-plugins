@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "chalk": "^2.1.0",
-    "inquirer": "^3.3.0",
+    "inquirer": "^8.2.7",
     "octonode": "^0.9.3"
   },
   "devDependencies": {
